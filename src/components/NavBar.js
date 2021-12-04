@@ -16,7 +16,7 @@ import {
   MenuItem,
   useMediaQuery,
   Switch,
-  Link,
+  
   Container,
 } from '@material-ui/core';
 import { useNavStyles } from '../styles/muiStyles';
@@ -26,7 +26,7 @@ import MoreVertIcon from '@material-ui/icons/MoreVert';
 import PowerSettingsNewIcon from '@material-ui/icons/PowerSettingsNew';
 import Brightness7Icon from '@material-ui/icons/Brightness7';
 import Brightness4Icon from '@material-ui/icons/Brightness4';
-import FavoriteIcon from '@material-ui/icons/Favorite';
+
 import ArrowBackIcon from '@material-ui/icons/ArrowBack';
 
 const NavBar = () => {
