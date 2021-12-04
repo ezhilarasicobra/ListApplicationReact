@@ -1,3 +1,3 @@
-const backendUrl = 'https://listapplicationn.herokuapp.com/';
+const backendUrl = 'https://listapplicationn.herokuapp.com';
 
 export default backendUrl;
