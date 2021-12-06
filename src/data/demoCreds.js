@@ -1,3 +1,3 @@
-const demoCredentials = "Email: 'test@test.com' & Password: 'password'";
+const demoCredentials = "Email: 'mythili@gmail.com' & Password: 'mythili'";
 
 export default demoCredentials;

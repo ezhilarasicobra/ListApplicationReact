@@ -82,7 +82,7 @@ export const useCardStyles = (isViewed, darkMode) => {
         backgroundColor: isViewed ? theme.palette.primary.main + '20' : '',
         color: isViewed
           ? darkMode
-            ? '#ffffff'
+            ? '#E3E2DF'
             : theme.palette.primary.main
           : '',
       },
@@ -114,7 +114,7 @@ export const useCardStyles = (isViewed, darkMode) => {
         marginRight: 5,
         textTransform: 'uppercase',
         '&:hover': {
-          backgroundColor: '#b0a7c7',
+          backgroundColor: '#E3AFBC',
         },
         [theme.breakpoints.down('xs')]: {
           marginBottom: 5,
@@ -142,7 +142,7 @@ export const useCardStyles = (isViewed, darkMode) => {
         },
       },
       edit: {
-        color: '#7a8efe',
+        color: '#EE4C7$',
         fontSize: 16,
         textTransform: 'capitalize',
         '&:hover': {
