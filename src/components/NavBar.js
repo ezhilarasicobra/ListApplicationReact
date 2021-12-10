@@ -155,7 +155,7 @@ const NavBar = () => {
               <div className={classes.logoWrapper}>
                 <Typography variant="h6" className={classes.logo}>
                   <ListAltRoundedIcon className={classes.logoIcon} />
-                  ToViewList
+                 Online Source Saver
                 </Typography>
               
               </div>
