@@ -143,10 +143,11 @@ const LoginForm = () => {
             title={error.title}
           />
         )}
-        <DemoCredsBox />
+       
       </form>
     </Paper>
-  );
-};
+  )
+        
+}
 
 export default LoginForm;
